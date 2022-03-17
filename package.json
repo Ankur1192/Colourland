@@ -15,10 +15,14 @@
     "express": "^4.17.3",
     "express-session": "^1.17.2",
     "g": "^2.0.1",
-    "mongoose": "^6.2.7"
+    "mongoose": "^6.2.7",
+    "dotenv": "^16.0.0"
+    
   },
   "devDependencies": {
-    "dotenv": "^16.0.0",
     "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.14.1"
   }
 }
